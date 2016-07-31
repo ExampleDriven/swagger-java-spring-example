@@ -1,0 +1,13 @@
+server:
+  port: 9099
+
+swaggerPetstoreSimple:
+  url: http://localhost:8090/api
+
+feign:
+  hystrix:
+    enabled: false
+
+ribbon:
+  eureka:
+    enabled: false

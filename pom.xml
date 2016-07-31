@@ -1,0 +1,18 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>org.exampledriven</groupId>
+    <artifactId>swagger-java-example</artifactId>
+    <packaging>pom</packaging>
+    <name>Swagger Java Example</name>
+    <version>1.0.0</version>
+
+    <modules>
+        <module>swagger-pet-server</module>
+        <module>swagger-pet-client</module>
+        <module>swagger-pet-client-feign</module>
+        <module>swagger-pet-client-feign-service</module>
+        <module>swagger-pet-client-service</module>
+    </modules>
+
+</project>
