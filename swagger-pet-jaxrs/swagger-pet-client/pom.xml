@@ -124,7 +124,7 @@
                         </goals>
                         <configuration>
                             <!--<configHelp>true</configHelp>-->
-                            <inputSpec>src/main/resources/api.json</inputSpec>
+                            <inputSpec>${project.basedir}/src/main/resources/api.json</inputSpec>
                             <language>java</language>
                             <configOptions>
                                 <sourceFolder>src/gen/java/main</sourceFolder>

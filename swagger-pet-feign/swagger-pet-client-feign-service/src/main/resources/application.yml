@@ -7,7 +7,3 @@ swaggerPetstoreSimple:
 feign:
   hystrix:
     enabled: false
-
-ribbon:
-  eureka:
-    enabled: false

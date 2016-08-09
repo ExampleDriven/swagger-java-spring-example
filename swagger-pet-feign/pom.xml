@@ -2,15 +2,14 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.exampledriven</groupId>
-    <artifactId>swagger-java-example</artifactId>
+    <artifactId>swagger-pet-feign</artifactId>
     <packaging>pom</packaging>
-    <name>Swagger java example aggregator</name>
+    <name>Swagger java feign example aggregator</name>
     <version>1.0.0</version>
 
     <modules>
-        <module>swagger-pet-server</module>
-        <module>swagger-pet-jaxrs</module>
-        <module>swagger-pet-feign</module>
+        <module>swagger-pet-client-feign</module>
+        <module>swagger-pet-client-feign-service</module>
     </modules>
 
 </project>

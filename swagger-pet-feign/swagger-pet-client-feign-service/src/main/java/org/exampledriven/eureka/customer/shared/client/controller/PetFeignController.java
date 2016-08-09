@@ -14,7 +14,7 @@ class PetFeignController {
     @Autowired
     private PetsApiClient petsApiClient;
 
-    @RequestMapping(value = "/p/{id}", method = RequestMethod.GET, produces = "application/json")
+    @RequestMapping(value = "/pet/{id}", method = RequestMethod.GET, produces = "application/json")
     public MessageWrapper<Pet> getPet(@PathVariable long id) {
 
         Pet pet = petsApiClient.findPetByIdUsingGET(id).getBody();
