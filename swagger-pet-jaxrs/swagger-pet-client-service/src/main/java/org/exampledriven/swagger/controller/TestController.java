@@ -1,4 +1,4 @@
-package org.exampledriven.rest;
+package org.exampledriven.swagger.controller;
 
 import io.swagger.client.ApiException;
 import io.swagger.client.api.PetsapicontrollerApi;

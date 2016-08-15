@@ -1,4 +1,4 @@
-package org.exampledriven.eureka.customer.shared.client.controller;
+package org.exampledriven.swagger.controller;
 
 public class MessageWrapper<T> {
 

@@ -13,7 +13,7 @@
       "url": "http://opensource.org/licenses/MIT"
     }
   },
-  "host": "localhost:8080",
+  "host": "localhost:8090",
   "basePath": "/api",
   "tags": [
     {
@@ -136,10 +136,7 @@
           "application/json"
         ],
         "produces": [
-          "application/xml",
-          "text/html",
-          "application/json",
-          "text/xml"
+          "*/*"
         ],
         "parameters": [
           {

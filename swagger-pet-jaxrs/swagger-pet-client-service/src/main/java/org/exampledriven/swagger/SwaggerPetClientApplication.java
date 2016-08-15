@@ -1,4 +1,4 @@
-package org.exampledriven;
+package org.exampledriven.swagger;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
