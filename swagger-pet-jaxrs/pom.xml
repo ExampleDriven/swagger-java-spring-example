@@ -2,7 +2,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.exampledriven</groupId>
-    <artifactId>swagger-pet-java</artifactId>
+    <artifactId>swagger-pet-jax-rs</artifactId>
     <packaging>pom</packaging>
     <name>Swagger jax-rs example aggregator</name>
     <version>1.0.0</version>
