@@ -8,7 +8,7 @@
     <version>1.0.0</version>
 
     <modules>
-        <module>swagger-pet-client</module>
+        <module>swagger-pet-client-jaxrs</module>
         <module>swagger-pet-client-service</module>
     </modules>
 

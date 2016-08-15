@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.exampledriven</groupId>
-    <artifactId>swagger-pet-client-service</artifactId>
+    <artifactId>swagger-pet-client-jaxrs-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>Swagger pet client service</name>
+    <name>Swagger pet client jaxrs service</name>
     <description>Demo project for Spring Boot</description>
 
     <parent>
