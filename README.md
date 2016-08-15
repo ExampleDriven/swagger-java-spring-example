@@ -1,13 +1,15 @@
 [![Build Status](https://travis-ci.org/ExampleDriven/swagger-java-spring-example.svg)](https://travis-ci.org/ExampleDriven/swagger-java-spring-example)
 # Swagger java example
 
-Instructions :
+Instructions
+
+## Directory : project root
 
 ```shell
 mvn clean install
 ```
 
-Apart from the usual build steps it will generate clients.
+Apart from the usual build steps it will generate clients from swagger definitions
 
 
 ## Directory : swagger-pet-server
