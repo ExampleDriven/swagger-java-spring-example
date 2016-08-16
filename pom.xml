@@ -11,6 +11,7 @@
         <module>swagger-pet-server</module>
         <module>swagger-pet-jaxrs</module>
         <module>swagger-pet-feign</module>
+        <module>swagger-inflector</module>
     </modules>
 
 </project>
