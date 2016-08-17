@@ -43,7 +43,7 @@
 
         <dependency>
             <groupId>org.exampledriven</groupId>
-            <artifactId>swagger-pet-client</artifactId>
+            <artifactId>swagger-pet-client-jaxrs</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
 

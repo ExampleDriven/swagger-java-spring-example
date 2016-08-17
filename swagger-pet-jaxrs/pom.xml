@@ -9,7 +9,7 @@
 
     <modules>
         <module>swagger-pet-client-jaxrs</module>
-        <module>swagger-pet-client-service</module>
+        <module>swagger-pet-client-jaxrs-service</module>
     </modules>
 
 </project>
